@@ -48,8 +48,8 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-```
 Html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -192,8 +192,9 @@ Responsive portfolio showcasing projects, skills and achievements.
 </body>
 </html>
 ```
+CSS:<img width="944" height="440" alt="Screenshot 2026-07-29 083510" src="https://github.com/user-attachments/assets/4690dc72-b4ed-4733-896b-6abecfa5d8b2" />
+
 ```
-CSS:
 *{
     margin:0;
     padding:0;
@@ -491,6 +492,10 @@ margin:10px;
 ```
 
 ## OUTPUT
+<img width="944" height="440" alt="Screenshot 2026-07-29 083510" src="https://github.com/user-attachments/assets/011cb99b-af6d-49f5-b2bc-0dbcd81a7244" />
+<img width="944" height="439" alt="Screenshot 2026-07-29 083607" src="https://github.com/user-attachments/assets/33db2355-baf0-4ff2-bd12-a45c9d807bde" />
+<img width="945" height="440" alt="Screenshot 2026-07-29 083652" src="https://github.com/user-attachments/assets/94456f7c-cb27-4211-97e8-fbdb68763ae6" />
+<img width="947" height="437" alt="Screenshot 2026-07-29 083737" src="https://github.com/user-attachments/assets/33b52d9f-50fa-4e9d-8cf3-034fa6d990bc" />
 
 
 ## RESULT
