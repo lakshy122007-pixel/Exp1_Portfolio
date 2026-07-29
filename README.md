@@ -1,5 +1,5 @@
 # Ex01 Portfolio
-## Date:
+## Date:29/07/2026
 
 ## AIM
 To create a Portfolio using HTML and CSS.
@@ -192,7 +192,7 @@ Responsive portfolio showcasing projects, skills and achievements.
 </body>
 </html>
 ```
-CSS:<img width="944" height="440" alt="Screenshot 2026-07-29 083510" src="https://github.com/user-attachments/assets/4690dc72-b4ed-4733-896b-6abecfa5d8b2" />
+CSS:
 
 ```
 *{
